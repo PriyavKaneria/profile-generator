@@ -92,7 +92,7 @@ python generate_cv_profile.py \
 
 ## 📋 GitHub Data Format
 
-### Use CodeStats repo for fetching and generating github repo details
+### Use CodeStats repo for fetching and generating github repo details automatically
 
 See [https://github.com/PriyavKaneria/CodeStats](https://github.com/PriyavKaneria/CodeStats)
 
