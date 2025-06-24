@@ -1,0 +1,6 @@
+requests>=2.31.0
+Pillow>=9.5.0
+pytesseract>=0.3.10
+PyMuPDF>=1.23.0
+pathlib>=1.0.1
+argparse>=1.4.0
